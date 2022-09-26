@@ -1,5 +1,5 @@
 ### Hi there 👋
-### hy WHATS'S UP BRO
+Call me Adit, I'm a Software Developer
 
 <!--
 **aditiapratamaDev/aditiapratamaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
